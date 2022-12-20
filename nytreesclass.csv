@@ -1,0 +1,661 @@
+"","spc_common","boroname","numtrees","avghealth"
+"1","Chinese chestnut","Brooklyn",54,1.92592592592593
+"2","American hornbeam","Brooklyn",343,1.73469387755102
+"3","Japanese tree lilac","Brooklyn",1005,1.6547263681592
+"4","serviceberry","Brooklyn",363,1.66115702479339
+"5","honeylocust","Brooklyn",16921,1.82548312747474
+"6","Norway maple","Brooklyn",6989,1.47746458720847
+"7","ginkgo","Brooklyn",5595,1.81411974977658
+"8","black oak","Brooklyn",441,1.78004535147392
+"9",NA,"Brooklyn",7549,NA
+"10","Sophora","Brooklyn",5989,1.81649691100351
+"11","littleleaf linden","Brooklyn",8903,1.74188475794676
+"12","mulberry","Brooklyn",206,1.72815533980582
+"13","pin oak","Brooklyn",12343,1.82937697480354
+"14","Callery pear","Brooklyn",9081,1.83614139411959
+"15","London planetree","Brooklyn",34886,1.81978444074987
+"16","silver linden","Brooklyn",2373,1.76654024441635
+"17","American hophornbeam","Brooklyn",366,1.68579234972678
+"18","sycamore maple","Brooklyn",544,1.62683823529412
+"19","Japanese zelkova","Brooklyn",9659,1.84977740966974
+"20","northern red oak","Brooklyn",2468,1.76053484602917
+"21","American linden","Brooklyn",4023,1.74297787720606
+"22","sweetgum","Brooklyn",2027,1.82831771090281
+"23","green ash","Brooklyn",3808,1.79674369747899
+"24","sugar maple","Brooklyn",603,1.54063018242123
+"25","Schumard's oak","Brooklyn",582,1.75257731958763
+"26","cherry","Brooklyn",5706,1.76691202243253
+"27","black locust","Brooklyn",441,1.75736961451247
+"28","eastern redcedar","Brooklyn",290,1.82758620689655
+"29","Chinese elm","Brooklyn",1593,1.81230382925298
+"30","Kentucky yellowwood","Brooklyn",124,1.54032258064516
+"31","'Schubert' chokecherry","Brooklyn",1308,1.68730886850153
+"32","Amur cork tree","Brooklyn",46,1.58695652173913
+"33","European hornbeam","Brooklyn",494,1.62145748987854
+"34","white oak","Brooklyn",503,1.78330019880716
+"35","golden raintree","Brooklyn",941,1.79596174282678
+"36","silver maple","Brooklyn",1375,1.74836363636364
+"37","Kentucky coffeetree","Brooklyn",1176,1.82057823129252
+"38","river birch","Brooklyn",116,1.86206896551724
+"39","black walnut","Brooklyn",82,1.86585365853659
+"40","paper birch","Brooklyn",134,1.75373134328358
+"41","Amur maackia","Brooklyn",729,1.72839506172839
+"42","holly","Brooklyn",35,1.8
+"43","crab apple","Brooklyn",626,1.78434504792332
+"44","sawtooth oak","Brooklyn",785,1.80891719745223
+"45","swamp white oak","Brooklyn",2714,1.78666175386883
+"46","willow oak","Brooklyn",802,1.78428927680798
+"47","silver birch","Brooklyn",114,1.71929824561403
+"48","hardy rubber tree","Brooklyn",377,1.80371352785146
+"49","Siberian elm","Brooklyn",507,1.69428007889546
+"50","red maple","Brooklyn",2384,1.67281879194631
+"51","white ash","Brooklyn",342,1.72222222222222
+"52","purple-leaf plum","Brooklyn",1198,1.68864774624374
+"53","crimson king maple","Brooklyn",999,1.55555555555555
+"54","mimosa","Brooklyn",85,1.72941176470588
+"55","Amur maple","Brooklyn",263,1.67680608365019
+"56","American elm","Brooklyn",2587,1.75840742172401
+"57","hedge maple","Brooklyn",578,1.75778546712803
+"58","horse chestnut","Brooklyn",223,1.53363228699552
+"59","catalpa","Brooklyn",73,1.67123287671233
+"60","eastern redbud","Brooklyn",796,1.62562814070352
+"61","boxelder","Brooklyn",14,1.57142857142857
+"62","paperbark maple","Brooklyn",59,1.61016949152542
+"63","katsura tree","Brooklyn",265,1.48301886792453
+"64","scarlet oak","Brooklyn",720,1.60972222222222
+"65","cucumber magnolia","Brooklyn",48,1.79166666666667
+"66","English oak","Brooklyn",559,1.83184257602862
+"67","maple","Brooklyn",445,1.66067415730337
+"68","flowering dogwood","Brooklyn",360,1.69166666666667
+"69","dawn redwood","Brooklyn",1130,1.72035398230088
+"70","Ohio buckeye","Brooklyn",21,1.52380952380952
+"71","empress tree","Brooklyn",36,1.55555555555556
+"72","hawthorn","Brooklyn",593,1.59865092748735
+"73","common hackberry","Brooklyn",603,1.71807628524046
+"74","ash","Brooklyn",369,1.76693766937669
+"75","two-winged silverbell","Brooklyn",57,1.63157894736842
+"76","cockspur hawthorn","Brooklyn",72,1.77777777777778
+"77","bald cypress","Brooklyn",645,1.74573643410853
+"78","tulip-poplar","Brooklyn",275,1.58909090909091
+"79","Atlantic white cedar","Brooklyn",95,1.76842105263158
+"80","arborvitae","Brooklyn",68,1.91176470588235
+"81","Japanese maple","Brooklyn",114,1.64912280701754
+"82","tree of heaven","Brooklyn",235,1.5063829787234
+"83","black cherry","Brooklyn",152,1.77631578947368
+"84","Persian ironwood","Brooklyn",67,1.76119402985075
+"85","magnolia","Brooklyn",83,1.66265060240964
+"86","Japanese snowbell","Brooklyn",88,1.54545454545455
+"87","Chinese tree lilac","Brooklyn",91,1.69230769230769
+"88","Chinese fringetree","Brooklyn",53,1.73584905660377
+"89","trident maple","Brooklyn",12,1.83333333333333
+"90","tartar maple","Brooklyn",16,1.625
+"91","Norway spruce","Brooklyn",67,1.71641791044776
+"92","Japanese hornbeam","Brooklyn",149,1.65771812080537
+"93","shingle oak","Brooklyn",277,1.74729241877256
+"94","sassafras","Brooklyn",41,1.80487804878049
+"95","Turkish hazelnut","Brooklyn",93,1.56989247311828
+"96","bur oak","Brooklyn",158,1.70886075949367
+"97","kousa dogwood","Brooklyn",72,1.79166666666667
+"98","Cornelian cherry","Brooklyn",251,1.66533864541833
+"99","false cypress","Brooklyn",35,1.85714285714286
+"100","blackgum","Brooklyn",123,1.70731707317073
+"101","pond cypress","Brooklyn",102,1.43137254901961
+"102","white pine","Brooklyn",37,1.62162162162162
+"103","spruce","Brooklyn",32,1.6875
+"104","pine","Brooklyn",45,1.73333333333333
+"105","blue spruce","Brooklyn",19,1.73684210526316
+"106","Himalayan cedar","Brooklyn",14,1.78571428571429
+"107","quaking aspen","Brooklyn",21,1.76190476190476
+"108","pignut hickory","Brooklyn",16,1.8125
+"109","Oklahoma redbud","Brooklyn",51,1.84313725490196
+"110","bigtooth aspen","Brooklyn",23,1.65217391304348
+"111","eastern hemlock","Brooklyn",33,1.6969696969697
+"112","weeping willow","Brooklyn",55,1.74545454545454
+"113","Douglas-fir","Brooklyn",30,1.9
+"114","pagoda dogwood","Brooklyn",80,1.7375
+"115","American beech","Brooklyn",83,1.63855421686747
+"116","American larch","Brooklyn",8,2
+"117","southern red oak","Brooklyn",20,1.9
+"118","European beech","Brooklyn",42,1.69047619047619
+"119","European alder","Brooklyn",10,1.8
+"120","black maple","Brooklyn",31,1.67741935483871
+"121","crepe myrtle","Brooklyn",65,1.81538461538462
+"122","red horse chestnut","Brooklyn",21,1.38095238095238
+"123","smoketree","Brooklyn",10,1.9
+"124","Atlas cedar","Brooklyn",34,1.85294117647059
+"125","eastern cottonwood","Brooklyn",40,1.5
+"126","red pine","Brooklyn",26,1.92307692307692
+"127","southern magnolia","Brooklyn",27,1.7037037037037
+"128","Osage-orange","Brooklyn",8,2
+"129","Virginia pine","Brooklyn",3,1.33333333333333
+"130","black pine","Brooklyn",5,1.6
+"131","pitch pine","Brooklyn",9,2
+"132","Shantung maple","Brooklyn",12,1.75
+"133","Scots pine","Brooklyn",3,1.66666666666667
+"134","London planetree","Queens",31111,1.84008871460255
+"135","cherry","Queens",13497,1.82714677335704
+"136","mulberry","Queens",581,1.71600688468158
+"137","pin oak","Queens",22610,1.84024767801857
+"138","littleleaf linden","Queens",11902,1.79179969752983
+"139","green ash","Queens",7389,1.81012315604277
+"140","Callery pear","Queens",16547,1.80358977458149
+"141","Japanese zelkova","Queens",8987,1.87837988205186
+"142","Sophora","Queens",5386,1.77849981433346
+"143","eastern redbud","Queens",1358,1.72164948453608
+"144","Norway maple","Queens",19407,1.46596588859691
+"145","Sophora","Bronx",2555,1.81174168297456
+"146","Callery pear","Bronx",4947,1.85567010309278
+"147","honeylocust","Bronx",9691,1.86760912186565
+"148","London planetree","Bronx",7511,1.80734922114232
+"149","American elm","Bronx",1471,1.7675050985724
+"150",NA,"Bronx",4619,2
+"151","pin oak","Bronx",6445,1.85120248254461
+"152","Japanese zelkova","Bronx",4638,1.82578697714532
+"153","littleleaf linden","Bronx",3917,1.74087311718152
+"154","ginkgo","Bronx",2685,1.79143389199255
+"155","Chinese elm","Bronx",1321,1.82134746404239
+"156","hawthorn","Bronx",472,1.75423728813559
+"157","green ash","Bronx",1889,1.77448385389095
+"158","cherry","Bronx",4092,1.76881720430108
+"159","hedge maple","Bronx",798,1.79824561403509
+"160","Amur cork tree","Bronx",32,1.71875
+"161","maple","Bronx",995,1.55075376884422
+"162","common hackberry","Bronx",807,1.74473358116481
+"163","silver birch","Bronx",42,1.54761904761905
+"164","American linden","Bronx",2132,1.76547842401501
+"165","'Schubert' chokecherry","Bronx",575,1.74260869565217
+"166","serviceberry","Bronx",307,1.78175895765472
+"167","golden raintree","Bronx",518,1.77992277992278
+"168","swamp white oak","Bronx",826,1.80750605326877
+"169","Siberian elm","Bronx",392,1.86989795918367
+"170","silver maple","Bronx",662,1.73111782477341
+"171","Amur maackia","Bronx",466,1.75965665236051
+"172","two-winged silverbell","Bronx",26,1.65384615384615
+"173","silver linden","Bronx",670,1.77462686567164
+"174","American beech","Bronx",31,1.58064516129032
+"175","American hornbeam","Bronx",295,1.63728813559322
+"176","Chinese tree lilac","Bronx",53,1.56603773584906
+"177","American hophornbeam","Bronx",185,1.75135135135135
+"178","hardy rubber tree","Bronx",101,1.77227722772277
+"179","red maple","Bronx",2198,1.73430391264786
+"180","purple-leaf plum","Bronx",774,1.76356589147287
+"181","black locust","Bronx",354,1.77683615819209
+"182","dawn redwood","Bronx",396,1.60353535353535
+"183","white ash","Bronx",174,1.64942528735632
+"184","catalpa","Bronx",133,1.64661654135338
+"185","blackgum","Bronx",28,1.67857142857143
+"186","Japanese tree lilac","Bronx",579,1.75993091537133
+"187","Norway maple","Bronx",3376,1.61640995260664
+"188","southern magnolia","Bronx",19,1.84210526315789
+"189","bur oak","Bronx",80,1.6875
+"190","magnolia","Bronx",62,1.64516129032258
+"191","Japanese hornbeam","Bronx",74,1.78378378378378
+"192","false cypress","Bronx",13,1.84615384615385
+"193","northern red oak","Bronx",1483,1.79028995279838
+"194","sweetgum","Bronx",904,1.88606194690266
+"195","European hornbeam","Bronx",449,1.69487750556793
+"196","sycamore maple","Bronx",247,1.66801619433198
+"197","crab apple","Bronx",507,1.79289940828402
+"198","white oak","Bronx",203,1.75862068965517
+"199","red pine","Bronx",10,1.9
+"200","trident maple","Bronx",7,2
+"201","flowering dogwood","Bronx",150,1.8
+"202","Oklahoma redbud","Bronx",47,1.61702127659574
+"203","black cherry","Bronx",64,1.71875
+"204","Ohio buckeye","Bronx",6,1
+"205","river birch","Bronx",55,1.69090909090909
+"206","sawtooth oak","Bronx",363,1.89807162534435
+"207","Schumard's oak","Bronx",261,1.83141762452107
+"208","tulip-poplar","Bronx",62,1.37096774193548
+"209","scarlet oak","Bronx",302,1.77814569536424
+"210","English oak","Bronx",223,1.86547085201794
+"211","Cornelian cherry","Bronx",170,1.85882352941176
+"212","shingle oak","Bronx",177,1.84180790960452
+"213","southern red oak","Bronx",11,1.81818181818182
+"214","mulberry","Bronx",155,1.68387096774194
+"215","horse chestnut","Bronx",102,1.51960784313726
+"216","sugar maple","Bronx",362,1.64364640883978
+"217","Kentucky coffeetree","Bronx",452,1.73230088495575
+"218","Japanese maple","Bronx",85,1.69411764705882
+"219","weeping willow","Bronx",27,1.92592592592593
+"220","Chinese chestnut","Bronx",19,1.89473684210526
+"221","crepe myrtle","Bronx",45,1.62222222222222
+"222","mimosa","Bronx",17,1.70588235294118
+"223","willow oak","Bronx",505,1.87722772277228
+"224","black oak","Bronx",224,1.79017857142857
+"225","Amur maple","Bronx",431,1.76566125290023
+"226","ash","Bronx",289,1.78892733564014
+"227","white pine","Bronx",17,1.82352941176471
+"228","European beech","Bronx",14,1.42857142857143
+"229","Turkish hazelnut","Bronx",54,1.77777777777778
+"230","katsura tree","Bronx",145,1.38620689655172
+"231","eastern cottonwood","Bronx",56,1.64285714285714
+"232","Atlantic white cedar","Bronx",53,1.90566037735849
+"233","Chinese fringetree","Bronx",31,1.87096774193548
+"234","empress tree","Bronx",57,1.59649122807018
+"235","eastern redbud","Bronx",632,1.68829113924051
+"236","bald cypress","Bronx",85,1.65882352941177
+"237","Norway spruce","Bronx",43,1.53488372093023
+"238","eastern redcedar","Bronx",158,1.88607594936709
+"239","Douglas-fir","Bronx",8,2
+"240","Persian ironwood","Bronx",29,1.79310344827586
+"241","blue spruce","Bronx",16,2
+"242","tree of heaven","Bronx",82,1.53658536585366
+"243","pine","Bronx",19,1.78947368421053
+"244","paper birch","Bronx",62,1.66129032258065
+"245","crimson king maple","Bronx",195,1.52820512820513
+"246","tartar maple","Bronx",43,1.62790697674419
+"247","Kentucky yellowwood","Bronx",88,1.73863636363636
+"248","Japanese snowbell","Bronx",55,1.6
+"249","Shantung maple","Bronx",9,1.77777777777778
+"250","eastern hemlock","Bronx",7,1.57142857142857
+"251","paperbark maple","Bronx",35,1.8
+"252","cucumber magnolia","Bronx",19,1.73684210526316
+"253","kousa dogwood","Bronx",41,1.82926829268293
+"254","black walnut","Bronx",43,1.62790697674419
+"255","red horse chestnut","Bronx",12,1.83333333333333
+"256","pagoda dogwood","Bronx",18,1.72222222222222
+"257","American larch","Bronx",12,1.75
+"258","sassafras","Bronx",16,1.75
+"259","black maple","Bronx",14,1.92857142857143
+"260","holly","Bronx",11,1.72727272727273
+"261","arborvitae","Bronx",26,1.88461538461538
+"262","Scots pine","Bronx",2,2
+"263","cockspur hawthorn","Bronx",56,1.57142857142857
+"264","spruce","Bronx",9,1.88888888888889
+"265","bigtooth aspen","Bronx",7,1.85714285714286
+"266","Himalayan cedar","Bronx",1,2
+"267","Atlas cedar","Bronx",6,2
+"268","pond cypress","Bronx",30,1.63333333333333
+"269","black pine","Bronx",2,2
+"270","quaking aspen","Bronx",5,1.6
+"271","pignut hickory","Bronx",7,1.57142857142857
+"272","boxelder","Bronx",17,1.88235294117647
+"273","smoketree","Bronx",3,1.33333333333333
+"274","Osage-orange","Bronx",3,1.66666666666667
+"275","Virginia pine","Bronx",1,2
+"276","European alder","Bronx",6,1.66666666666667
+"277","pitch pine","Bronx",3,2
+"278","shingle oak","Manhattan",205,1.77560975609756
+"279","London planetree","Manhattan",4122,1.5376031052887
+"280","Japanese zelkova","Manhattan",3596,1.71440489432703
+"281","northern red oak","Manhattan",1143,1.66754155730534
+"282","Callery pear","Manhattan",7297,1.67712758667945
+"283","silver linden","Manhattan",541,1.62846580406654
+"284","honeylocust","Manhattan",13176,1.8161669829222
+"285","American linden","Manhattan",1583,1.52811118130133
+"286","ginkgo","Manhattan",5859,1.66478921317631
+"287","littleleaf linden","Manhattan",3333,1.48454845484548
+"288","sawtooth oak","Manhattan",353,1.8413597733711
+"289","Chinese elm","Manhattan",785,1.71592356687898
+"290","pin oak","Manhattan",4584,1.78468586387435
+"291","cherry","Manhattan",869,1.71461449942463
+"292",NA,"Manhattan",2995,NA
+"293","Chinese chestnut","Manhattan",17,1.64705882352941
+"294","Japanese tree lilac","Manhattan",129,1.61240310077519
+"295","golden raintree","Manhattan",359,1.86629526462396
+"296","sweetgum","Manhattan",227,1.55066079295154
+"297","American elm","Manhattan",1698,1.75559481743227
+"298","tree of heaven","Manhattan",104,1.74038461538462
+"299","black locust","Manhattan",259,1.75289575289575
+"300","sycamore maple","Manhattan",23,1.52173913043478
+"301","Sophora","Manhattan",4453,1.75634403772737
+"302","American hophornbeam","Manhattan",84,1.66666666666667
+"303","sassafras","Manhattan",17,1.35294117647059
+"304","Norway maple","Manhattan",290,1.40344827586207
+"305","red maple","Manhattan",356,1.51685393258427
+"306","pond cypress","Manhattan",12,0.666666666666667
+"307","dawn redwood","Manhattan",199,1.44723618090452
+"308","black oak","Manhattan",192,1.703125
+"309","Japanese snowbell","Manhattan",15,1.4
+"310","green ash","Manhattan",770,1.68831168831169
+"311","English oak","Manhattan",197,1.73604060913706
+"312","tulip-poplar","Manhattan",34,1.29411764705882
+"313","common hackberry","Manhattan",170,1.50588235294118
+"314","'Schubert' chokecherry","Manhattan",163,1.60736196319018
+"315","black walnut","Manhattan",33,1.75757575757576
+"316","Japanese hornbeam","Manhattan",62,1.67741935483871
+"317","crab apple","Manhattan",437,1.77803203661327
+"318","sugar maple","Manhattan",48,1.52083333333333
+"319","empress tree","Manhattan",17,1.41176470588235
+"320","purple-leaf plum","Manhattan",110,1.67272727272727
+"321","eastern redbud","Manhattan",50,1.7
+"322","silver maple","Manhattan",71,1.35211267605634
+"323","swamp white oak","Manhattan",681,1.76211453744493
+"324","hawthorn","Manhattan",219,1.78538812785388
+"325","black cherry","Manhattan",32,1.6875
+"326","willow oak","Manhattan",889,1.80989876265467
+"327","Turkish hazelnut","Manhattan",17,1.35294117647059
+"328","Chinese tree lilac","Manhattan",8,1.5
+"329","scarlet oak","Manhattan",71,1.69014084507042
+"330","eastern hemlock","Manhattan",7,0.571428571428572
+"331","serviceberry","Manhattan",38,1.6578947368421
+"332","mulberry","Manhattan",68,1.63235294117647
+"333","hardy rubber tree","Manhattan",66,1.59090909090909
+"334","red horse chestnut","Manhattan",1,2
+"335","tartar maple","Manhattan",12,1.16666666666667
+"336","katsura tree","Manhattan",38,1.34210526315789
+"337","spruce","Manhattan",1,1
+"338","Oklahoma redbud","Manhattan",9,1.55555555555556
+"339","black maple","Manhattan",10,1.9
+"340","white ash","Manhattan",50,1.76
+"341","white oak","Manhattan",241,1.57676348547718
+"342","bur oak","Manhattan",36,1.72222222222222
+"343","American beech","Manhattan",22,1.54545454545455
+"344","ash","Manhattan",58,1.60344827586207
+"345","Kentucky coffeetree","Manhattan",348,1.82471264367816
+"346","black pine","Manhattan",3,2
+"347","American hornbeam","Manhattan",85,1.72941176470588
+"348","bald cypress","Manhattan",89,1.48314606741573
+"349","European hornbeam","Manhattan",167,1.67065868263473
+"350","two-winged silverbell","Manhattan",8,1.625
+"351","Siberian elm","Manhattan",156,1.79487179487179
+"352","Amur maple","Manhattan",30,1.5
+"353","paper birch","Manhattan",47,1.57446808510638
+"354","eastern redcedar","Manhattan",42,1.78571428571429
+"355","crepe myrtle","Manhattan",5,2
+"356","horse chestnut","Manhattan",11,1.27272727272727
+"357","cucumber magnolia","Manhattan",12,1.33333333333333
+"358","hedge maple","Manhattan",23,1.39130434782609
+"359","Cornelian cherry","Manhattan",27,1.74074074074074
+"360","river birch","Manhattan",27,1.66666666666667
+"361","silver birch","Manhattan",10,1.5
+"362","Amur maackia","Manhattan",59,1.72881355932203
+"363","magnolia","Manhattan",116,1.70689655172414
+"364","Schumard's oak","Manhattan",137,1.76642335766423
+"365","Kentucky yellowwood","Manhattan",18,1.33333333333333
+"366","maple","Manhattan",37,1.10810810810811
+"367","red pine","Manhattan",1,2
+"368","flowering dogwood","Manhattan",65,1.52307692307692
+"369","pine","Manhattan",3,1.33333333333333
+"370","Himalayan cedar","Manhattan",6,1.5
+"371","crimson king maple","Manhattan",6,0.666666666666667
+"372","Norway spruce","Manhattan",3,1.33333333333333
+"373","Atlantic white cedar","Manhattan",12,1.58333333333333
+"374","Japanese maple","Manhattan",11,1.81818181818182
+"375","weeping willow","Manhattan",12,1.66666666666667
+"376","pitch pine","Manhattan",5,2
+"377","Osage-orange","Manhattan",1,2
+"378","mimosa","Manhattan",12,1.66666666666667
+"379","pagoda dogwood","Manhattan",18,1.22222222222222
+"380","Douglas-fir","Manhattan",2,1
+"381","quaking aspen","Manhattan",2,1.5
+"382","Chinese fringetree","Manhattan",9,1.66666666666667
+"383","eastern cottonwood","Manhattan",10,1.4
+"384","American larch","Manhattan",7,1.28571428571429
+"385","paperbark maple","Manhattan",15,1
+"386","kousa dogwood","Manhattan",13,1.69230769230769
+"387","Amur cork tree","Manhattan",8,1.875
+"388","catalpa","Manhattan",13,1.46153846153846
+"389","southern magnolia","Manhattan",19,1.78947368421053
+"390","Virginia pine","Manhattan",3,1.33333333333333
+"391","holly","Manhattan",26,1.80769230769231
+"392","Scots pine","Manhattan",2,2
+"393","cockspur hawthorn","Manhattan",3,1
+"394","European beech","Manhattan",6,2
+"395","bigtooth aspen","Manhattan",5,1.4
+"396","Ohio buckeye","Manhattan",24,1.70833333333333
+"397","blackgum","Manhattan",9,1.77777777777778
+"398","white pine","Manhattan",1,1
+"399","blue spruce","Manhattan",4,2
+"400","boxelder","Manhattan",2,0.5
+"401","smoketree","Manhattan",1,2
+"402","Persian ironwood","Manhattan",1,2
+"403","southern red oak","Manhattan",7,1.85714285714286
+"404","European alder","Manhattan",2,0.5
+"405","arborvitae","Manhattan",5,2
+"406","pignut hickory","Manhattan",1,1
+"407","tree of heaven","Queens",271,1.74538745387454
+"408","Kentucky yellowwood","Queens",187,1.79679144385027
+"409","honeylocust","Queens",20290,1.8285855101035
+"410","American elm","Queens",1709,1.78993563487419
+"411",NA,"Queens",12581,1.5
+"412","northern red oak","Queens",2697,1.84315906562847
+"413","golden raintree","Queens",1304,1.79217791411043
+"414","purple-leaf plum","Queens",3035,1.75453047775947
+"415","Japanese tree lilac","Queens",1964,1.770366598778
+"416","Siberian elm","Queens",340,1.66764705882353
+"417","ginkgo","Queens",5971,1.79417183051414
+"418","silver linden","Queens",4146,1.88229618909793
+"419","katsura tree","Queens",364,1.5467032967033
+"420","American hophornbeam","Queens",295,1.81016949152542
+"421","red maple","Queens",4935,1.68733535967578
+"422","American linden","Queens",4769,1.79261899769344
+"423","maple","Queens",2992,1.5975935828877
+"424","silver maple","Queens",6116,1.72498364944408
+"425","hedge maple","Queens",675,1.76592592592593
+"426","catalpa","Queens",307,1.54723127035831
+"427","empress tree","Queens",94,1.76595744680851
+"428","American hornbeam","Queens",525,1.78095238095238
+"429","Japanese maple","Queens",760,1.75
+"430","paperbark maple","Queens",73,1.61643835616438
+"431","European hornbeam","Queens",803,1.82440846824409
+"432","ash","Queens",1324,1.8368580060423
+"433","'Schubert' chokecherry","Queens",2013,1.78340784898162
+"434","English oak","Queens",461,1.78308026030369
+"435","sweetgum","Queens",2489,1.86822016874247
+"436","sycamore maple","Queens",1603,1.66687461010605
+"437","black locust","Queens",490,1.74285714285714
+"438","Oklahoma redbud","Queens",82,1.71951219512195
+"439","crab apple","Queens",1404,1.77564102564102
+"440","sugar maple","Queens",1282,1.58658346333853
+"441","dawn redwood","Queens",874,1.87757437070938
+"442","Chinese tree lilac","Queens",204,1.86274509803922
+"443","eastern cottonwood","Queens",106,1.75471698113208
+"444","swamp white oak","Queens",1584,1.80555555555556
+"445","scarlet oak","Queens",276,1.77173913043478
+"446","Kentucky coffeetree","Queens",1036,1.8030888030888
+"447","shingle oak","Queens",333,1.80780780780781
+"448","serviceberry","Queens",888,1.73423423423423
+"449","Amur maackia","Queens",675,1.84592592592593
+"450","white oak","Queens",507,1.76331360946746
+"451","Amur maple","Queens",671,1.69895678092399
+"452","common hackberry","Queens",631,1.77496038034865
+"453","sawtooth oak","Queens",579,1.88773747841105
+"454","horse chestnut","Queens",574,1.68292682926829
+"455","willow oak","Queens",730,1.86986301369863
+"456","tartar maple","Queens",50,1.7
+"457","hawthorn","Queens",1058,1.7296786389414
+"458","crimson king maple","Queens",2903,1.69342059937996
+"459","tulip-poplar","Queens",489,1.75664621676891
+"460","Chinese fringetree","Queens",93,1.88172043010753
+"461","eastern redcedar","Queens",532,1.80827067669173
+"462","Japanese snowbell","Queens",198,1.76262626262626
+"463","black oak","Queens",372,1.84139784946236
+"464","magnolia","Queens",317,1.79179810725552
+"465","cucumber magnolia","Queens",52,1.80769230769231
+"466","black cherry","Queens",269,1.6542750929368
+"467","Virginia pine","Queens",3,2
+"468","cockspur hawthorn","Queens",120,1.725
+"469","Chinese chestnut","Queens",59,1.83050847457627
+"470","river birch","Queens",208,1.75961538461538
+"471","red pine","Queens",52,1.84615384615385
+"472","weeping willow","Queens",133,1.68421052631579
+"473","hardy rubber tree","Queens",278,1.64748201438849
+"474","trident maple","Queens",68,1.69117647058824
+"475","Chinese elm","Queens",1020,1.81862745098039
+"476","Persian ironwood","Queens",157,1.73248407643312
+"477","bald cypress","Queens",313,1.80191693290735
+"478","Atlantic white cedar","Queens",133,1.7593984962406
+"479","arborvitae","Queens",175,1.89142857142857
+"480","blue spruce","Queens",61,1.70491803278688
+"481","spruce","Queens",126,1.76190476190476
+"482","flowering dogwood","Queens",684,1.6827485380117
+"483","American beech","Queens",88,1.75
+"484","pagoda dogwood","Queens",81,1.72839506172839
+"485","sassafras","Queens",73,1.65753424657534
+"486","Turkish hazelnut","Queens",136,1.58823529411765
+"487","silver birch","Queens",84,1.73809523809524
+"488","blackgum","Queens",76,1.68421052631579
+"489","kousa dogwood","Queens",121,1.7603305785124
+"490","Schumard's oak","Queens",225,1.80888888888889
+"491","pine","Queens",194,1.84020618556701
+"492","white ash","Queens",400,1.8325
+"493","black walnut","Queens",91,1.81318681318681
+"494","holly","Queens",50,1.86
+"495","eastern hemlock","Queens",25,1.64
+"496","Japanese hornbeam","Queens",97,1.81443298969072
+"497","pitch pine","Queens",10,2
+"498","crepe myrtle","Queens",240,1.83333333333333
+"499","Cornelian cherry","Queens",327,1.75229357798165
+"500","Scots pine","Queens",15,1.8
+"501","pignut hickory","Queens",54,1.75925925925926
+"502","southern red oak","Queens",27,1.7037037037037
+"503","Norway spruce","Queens",191,1.72774869109948
+"504","mimosa","Queens",40,1.9
+"505","paper birch","Queens",170,1.74705882352941
+"506","bur oak","Queens",170,1.7
+"507","bigtooth aspen","Queens",37,1.45945945945946
+"508","pond cypress","Queens",30,1.8
+"509","southern magnolia","Queens",48,1.83333333333333
+"510","boxelder","Queens",15,1.66666666666667
+"511","white pine","Queens",100,1.66
+"512","two-winged silverbell","Queens",73,1.82191780821918
+"513","Osage-orange","Queens",12,1.91666666666667
+"514","Amur cork tree","Queens",71,1.23943661971831
+"515","quaking aspen","Queens",35,1.85714285714286
+"516","Himalayan cedar","Queens",30,1.73333333333333
+"517","smoketree","Queens",42,1.83333333333333
+"518","Douglas-fir","Queens",37,1.78378378378378
+"519","false cypress","Queens",51,1.90196078431373
+"520","red horse chestnut","Queens",58,1.93103448275862
+"521","Ohio buckeye","Queens",19,1.63157894736842
+"522","black pine","Queens",24,1.29166666666667
+"523","Atlas cedar","Queens",39,1.8974358974359
+"524","Shantung maple","Queens",27,1.77777777777778
+"525","black maple","Queens",23,1.69565217391304
+"526","European beech","Queens",51,1.82352941176471
+"527","American larch","Queens",10,1.8
+"528","European alder","Queens",17,1.70588235294118
+"529","Norway maple","Staten Island",4127,1.70050884419675
+"530","Callery pear","Staten Island",21059,1.7559713186761
+"531","sweetgum","Staten Island",5010,1.80119760479042
+"532","green ash","Staten Island",2395,1.74436090225564
+"533","crimson king maple","Staten Island",1820,1.66868131868132
+"534","silver maple","Staten Island",4053,1.72316802368616
+"535","holly","Staten Island",16,1.75
+"536","cherry","Staten Island",5115,1.76520039100684
+"537","maple","Staten Island",2611,1.54959785522789
+"538","flowering dogwood","Staten Island",293,1.74061433447099
+"539","red maple","Staten Island",7373,1.77973687779737
+"540","Japanese tree lilac","Staten Island",891,1.82491582491583
+"541","bigtooth aspen","Staten Island",22,1.77272727272727
+"542","Kentucky coffeetree","Staten Island",352,1.80681818181818
+"543","hardy rubber tree","Staten Island",93,1.83870967741935
+"544","crepe myrtle","Staten Island",87,1.77011494252874
+"545","Chinese elm","Staten Island",626,1.88817891373802
+"546",NA,"Staten Island",3875,NA
+"547","Japanese zelkova","Staten Island",2378,1.84188393608074
+"548","American elm","Staten Island",510,1.8235294117647
+"549","northern red oak","Staten Island",609,1.7504105090312
+"550","pin oak","Staten Island",7203,1.83340274885464
+"551","silver linden","Staten Island",265,1.88301886792453
+"552","sugar maple","Staten Island",549,1.76502732240437
+"553","American linden","Staten Island",1023,1.8455522971652
+"554","London planetree","Staten Island",9384,1.86295822676897
+"555","littleleaf linden","Staten Island",1687,1.78008298755187
+"556","crab apple","Staten Island",553,1.77938517179023
+"557","honeylocust","Staten Island",4186,1.80506450071667
+"558","Amur maackia","Staten Island",268,1.77238805970149
+"559","white ash","Staten Island",155,1.69677419354839
+"560","'Schubert' chokecherry","Staten Island",829,1.82629674306393
+"561","purple-leaf plum","Staten Island",1762,1.75085130533485
+"562","Amur maple","Staten Island",654,1.83792048929663
+"563","ash","Staten Island",569,1.63093145869947
+"564","mulberry","Staten Island",147,1.68027210884354
+"565","white pine","Staten Island",47,1.87234042553191
+"566","hedge maple","Staten Island",476,1.82983193277311
+"567","Schumard's oak","Staten Island",282,1.65602836879432
+"568","Chinese fringetree","Staten Island",48,1.89583333333333
+"569","black locust","Staten Island",240,1.7
+"570","black oak","Staten Island",98,1.81632653061224
+"571","white oak","Staten Island",232,1.71120689655172
+"572","sycamore maple","Staten Island",314,1.71337579617834
+"573","Sophora","Staten Island",955,1.72356020942408
+"574","tulip-poplar","Staten Island",216,1.77314814814815
+"575","common hackberry","Staten Island",171,1.67251461988304
+"576","Osage-orange","Staten Island",5,1.8
+"577","Amur cork tree","Staten Island",26,1.88461538461538
+"578","swamp white oak","Staten Island",793,1.73392181588903
+"579","eastern redbud","Staten Island",965,1.72435233160622
+"580","Norway spruce","Staten Island",51,1.7843137254902
+"581","serviceberry","Staten Island",436,1.77064220183486
+"582","ginkgo","Staten Island",914,1.75601750547046
+"583","empress tree","Staten Island",41,1.73170731707317
+"584","European hornbeam","Staten Island",186,1.80645161290322
+"585","black walnut","Staten Island",46,1.54347826086956
+"586","weeping willow","Staten Island",55,1.72727272727273
+"587","southern red oak","Staten Island",18,1.61111111111111
+"588","willow oak","Staten Island",258,1.77131782945736
+"589","dawn redwood","Staten Island",421,1.75534441805226
+"590","trident maple","Staten Island",23,1.8695652173913
+"591","river birch","Staten Island",159,1.75471698113208
+"592","sawtooth oak","Staten Island",164,1.89634146341463
+"593","Cornelian cherry","Staten Island",291,1.87285223367698
+"594","paper birch","Staten Island",122,1.77868852459016
+"595","sassafras","Staten Island",24,1.66666666666667
+"596","black maple","Staten Island",36,1.58333333333333
+"597","Japanese maple","Staten Island",160,1.7625
+"598","hawthorn","Staten Island",646,1.73839009287926
+"599","golden raintree","Staten Island",597,1.80737018425461
+"600","bur oak","Staten Island",71,1.85915492957746
+"601","American hornbeam","Staten Island",269,1.80297397769517
+"602","pagoda dogwood","Staten Island",83,1.83132530120482
+"603","American hophornbeam","Staten Island",151,1.82119205298013
+"604","tree of heaven","Staten Island",64,1.640625
+"605","pignut hickory","Staten Island",21,1.66666666666667
+"606","bald cypress","Staten Island",129,1.81395348837209
+"607","blackgum","Staten Island",52,1.80769230769231
+"608","eastern hemlock","Staten Island",16,1.625
+"609","American beech","Staten Island",49,1.89795918367347
+"610","Himalayan cedar","Staten Island",21,1.80952380952381
+"611","arborvitae","Staten Island",54,1.98148148148148
+"612","silver birch","Staten Island",50,1.74
+"613","Japanese hornbeam","Staten Island",44,1.79545454545455
+"614","eastern cottonwood","Staten Island",64,1.78125
+"615","Siberian elm","Staten Island",200,1.875
+"616","horse chestnut","Staten Island",186,1.68817204301075
+"617","Turkish hazelnut","Staten Island",17,1.76470588235294
+"618","Chinese tree lilac","Staten Island",106,1.80188679245283
+"619","black cherry","Staten Island",90,1.62222222222222
+"620","kousa dogwood","Staten Island",55,1.49090909090909
+"621","European beech","Staten Island",12,2
+"622","English oak","Staten Island",204,1.75980392156863
+"623","red horse chestnut","Staten Island",24,1.79166666666667
+"624","magnolia","Staten Island",121,1.88429752066116
+"625","cucumber magnolia","Staten Island",38,1.84210526315789
+"626","Japanese snowbell","Staten Island",36,1.75
+"627","two-winged silverbell","Staten Island",57,1.57894736842105
+"628","scarlet oak","Staten Island",96,1.79166666666667
+"629","shingle oak","Staten Island",57,1.80701754385965
+"630","boxelder","Staten Island",16,1.5
+"631","cockspur hawthorn","Staten Island",90,1.74444444444444
+"632","eastern redcedar","Staten Island",79,1.81012658227848
+"633","Oklahoma redbud","Staten Island",30,1.86666666666667
+"634","pine","Staten Island",28,1.78571428571429
+"635","paperbark maple","Staten Island",38,1.81578947368421
+"636","catalpa","Staten Island",25,1.64
+"637","red pine","Staten Island",17,1.94117647058824
+"638","southern magnolia","Staten Island",19,1.94736842105263
+"639","katsura tree","Staten Island",99,1.75757575757576
+"640","Kentucky yellowwood","Staten Island",62,1.80645161290323
+"641","Atlas cedar","Staten Island",8,1.75
+"642","pond cypress","Staten Island",7,1.85714285714286
+"643","quaking aspen","Staten Island",20,1.65
+"644","black pine","Staten Island",3,1
+"645","Atlantic white cedar","Staten Island",62,1.03225806451613
+"646","spruce","Staten Island",34,1.55882352941177
+"647","Shantung maple","Staten Island",11,1.45454545454545
+"648","tartar maple","Staten Island",32,1.875
+"649","American larch","Staten Island",9,2
+"650","Chinese chestnut","Staten Island",24,1.875
+"651","blue spruce","Staten Island",26,1.84615384615385
+"652","European alder","Staten Island",12,1.66666666666667
+"653","Persian ironwood","Staten Island",23,1.69565217391304
+"654","Ohio buckeye","Staten Island",5,1.8
+"655","false cypress","Staten Island",9,1.88888888888889
+"656","Scots pine","Staten Island",3,1.66666666666667
+"657","smoketree","Staten Island",2,1
+"658","Douglas-fir","Staten Island",8,1.875
+"659","pitch pine","Staten Island",6,2
+"660","mimosa","Staten Island",9,1.66666666666667
